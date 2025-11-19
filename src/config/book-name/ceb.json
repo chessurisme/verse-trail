@@ -1,0 +1,332 @@
+[
+        {
+                "name": "Genesis",
+                "longAbbreviation": "Gen.",
+                "abbreviation": "Gen"
+        },
+        {
+                "name": "Exodo",
+                "longAbbreviation": "Ex.",
+                "abbreviation": "Ex"
+        },
+        {
+                "name": "Levitico",
+                "longAbbreviation": "Lev.",
+                "abbreviation": "Lev"
+        },
+        {
+                "name": "Numeros",
+                "longAbbreviation": "Num.",
+                "abbreviation": "Num"
+        },
+        {
+                "name": "Deuteronomio",
+                "longAbbreviation": "Deut.",
+                "abbreviation": "Deu"
+        },
+        {
+                "name": "Josue",
+                "longAbbreviation": "Jos.",
+                "abbreviation": "Jos"
+        },
+        {
+                "name": "Maghuhukom",
+                "longAbbreviation": "Maghu.",
+                "abbreviation": "Huk"
+        },
+        {
+                "name": "Ruth",
+                "longAbbreviation": "Ruth",
+                "abbreviation": "Ru"
+        },
+        {
+                "name": "1 Samuel",
+                "longAbbreviation": "1 Sam.",
+                "abbreviation": "1Sa"
+        },
+        {
+                "name": "2 Samuel",
+                "longAbbreviation": "2 Sam.",
+                "abbreviation": "2Sa"
+        },
+        {
+                "name": "1 Hari",
+                "longAbbreviation": "1 Hari",
+                "abbreviation": "1Ha"
+        },
+        {
+                "name": "2 Hari",
+                "longAbbreviation": "2 Hari",
+                "abbreviation": "2Ha"
+        },
+        {
+                "name": "1 Cronicas",
+                "longAbbreviation": "1 Cron.",
+                "abbreviation": "1Cr"
+        },
+        {
+                "name": "2 Cronicas",
+                "longAbbreviation": "2 Cron.",
+                "abbreviation": "2Cr"
+        },
+        {
+                "name": "Esdras",
+                "longAbbreviation": "Esd.",
+                "abbreviation": "Esd"
+        },
+        {
+                "name": "Nehemias",
+                "longAbbreviation": "Neh.",
+                "abbreviation": "Neh"
+        },
+        {
+                "name": "Ester",
+                "longAbbreviation": "Est.",
+                "abbreviation": "Est"
+        },
+        {
+                "name": "Job",
+                "longAbbreviation": "Job",
+                "abbreviation": "Job"
+        },
+        {
+                "name": "Salmo",
+                "longAbbreviation": "Sal.",
+                "abbreviation": "Sal"
+        },
+        {
+                "name": "Proverbio",
+                "longAbbreviation": "Prov.",
+                "abbreviation": "Pr"
+        },
+        {
+                "name": "Ecclesiastes",
+                "longAbbreviation": "Eccl.",
+                "abbreviation": "Ecc"
+        },
+        {
+                "name": "Awit ni Solomon",
+                "longAbbreviation": "Awit",
+                "abbreviation": "Aw"
+        },
+        {
+                "name": "Isaias",
+                "longAbbreviation": "Isa.",
+                "abbreviation": "Isa"
+        },
+        {
+                "name": "Jeremias",
+                "longAbbreviation": "Jer.",
+                "abbreviation": "Jer"
+        },
+        {
+                "name": "Lamentaciones",
+                "longAbbreviation": "Lam.",
+                "abbreviation": "Lam"
+        },
+        {
+                "name": "Ezequiel",
+                "longAbbreviation": "Ezeq.",
+                "abbreviation": "Eze"
+        },
+        {
+                "name": "Daniel",
+                "longAbbreviation": "Dan.",
+                "abbreviation": "Dan"
+        },
+        {
+                "name": "Oseas",
+                "longAbbreviation": "Os.",
+                "abbreviation": "Os"
+        },
+        {
+                "name": "Joel",
+                "longAbbreviation": "Joel",
+                "abbreviation": "Joe"
+        },
+        {
+                "name": "Amos",
+                "longAbbreviation": "Amos",
+                "abbreviation": "Am"
+        },
+        {
+                "name": "Abdias",
+                "longAbbreviation": "Abd.",
+                "abbreviation": "Abd"
+        },
+        {
+                "name": "Jonas",
+                "longAbbreviation": "Jon.",
+                "abbreviation": "Jon"
+        },
+        {
+                "name": "Miqueas",
+                "longAbbreviation": "Miq.",
+                "abbreviation": "Miq"
+        },
+        {
+                "name": "Nahum",
+                "longAbbreviation": "Nah.",
+                "abbreviation": "Nah"
+        },
+        {
+                "name": "Habacuc",
+                "longAbbreviation": "Hab.",
+                "abbreviation": "Hab"
+        },
+        {
+                "name": "Sofonias",
+                "longAbbreviation": "Sof.",
+                "abbreviation": "Sof"
+        },
+        {
+                "name": "Haggeo",
+                "longAbbreviation": "Hag.",
+                "abbreviation": "Hag"
+        },
+        {
+                "name": "Zacarias",
+                "longAbbreviation": "Zac.",
+                "abbreviation": "Zac"
+        },
+        {
+                "name": "Malaquias",
+                "longAbbreviation": "Mal.",
+                "abbreviation": "Mal"
+        },
+        {
+                "name": "Mateo",
+                "longAbbreviation": "Mat.",
+                "abbreviation": "Mat"
+        },
+        {
+                "name": "Marcos",
+                "longAbbreviation": "Mar.",
+                "abbreviation": "Mar"
+        },
+        {
+                "name": "Lucas",
+                "longAbbreviation": "Luc.",
+                "abbreviation": "Luc"
+        },
+        {
+                "name": "Juan",
+                "longAbbreviation": "Juan",
+                "abbreviation": "Ju"
+        },
+        {
+                "name": "Buhat",
+                "longAbbreviation": "Buh.",
+                "abbreviation": "Buh"
+        },
+        {
+                "name": "Roma",
+                "longAbbreviation": "Roma",
+                "abbreviation": "Rom"
+        },
+        {
+                "name": "1 Corinto",
+                "longAbbreviation": "1 Cor.",
+                "abbreviation": "1Co"
+        },
+        {
+                "name": "2 Corinto",
+                "longAbbreviation": "2 Cor.",
+                "abbreviation": "2Co"
+        },
+        {
+                "name": "Galacia",
+                "longAbbreviation": "Gal.",
+                "abbreviation": "Gal"
+        },
+        {
+                "name": "Efeso",
+                "longAbbreviation": "Efe.",
+                "abbreviation": "Efe"
+        },
+        {
+                "name": "Filipos",
+                "longAbbreviation": "Filip.",
+                "abbreviation": "Flp"
+        },
+        {
+                "name": "Colosas",
+                "longAbbreviation": "Col.",
+                "abbreviation": "Col"
+        },
+        {
+                "name": "1 Tesalonica",
+                "longAbbreviation": "1 Tes.",
+                "abbreviation": "1Te"
+        },
+        {
+                "name": "2 Tesalonica",
+                "longAbbreviation": "2 Tes.",
+                "abbreviation": "2Te"
+        },
+        {
+                "name": "1 Timoteo",
+                "longAbbreviation": "1 Tim.",
+                "abbreviation": "1Ti"
+        },
+        {
+                "name": "2 Timoteo",
+                "longAbbreviation": "2 Tim.",
+                "abbreviation": "2Ti"
+        },
+        {
+                "name": "Tito",
+                "longAbbreviation": "Tito",
+                "abbreviation": "Tit"
+        },
+        {
+                "name": "Filemon",
+                "longAbbreviation": "Filem.",
+                "abbreviation": "Flm"
+        },
+        {
+                "name": "Hebreohanon",
+                "longAbbreviation": "Heb.",
+                "abbreviation": "Heb"
+        },
+        {
+                "name": "Santiago",
+                "longAbbreviation": "Sant.",
+                "abbreviation": "San"
+        },
+        {
+                "name": "1 Pedro",
+                "longAbbreviation": "1 Ped.",
+                "abbreviation": "1Pe"
+        },
+        {
+                "name": "2 Pedro",
+                "longAbbreviation": "2 Ped.",
+                "abbreviation": "2Pe"
+        },
+        {
+                "name": "1 Juan",
+                "longAbbreviation": "1 Juan",
+                "abbreviation": "1Ju"
+        },
+        {
+                "name": "2 Juan",
+                "longAbbreviation": "2 Juan",
+                "abbreviation": "2Ju"
+        },
+        {
+                "name": "3 Juan",
+                "longAbbreviation": "3 Juan",
+                "abbreviation": "3Ju"
+        },
+        {
+                "name": "Judas",
+                "longAbbreviation": "Jud.",
+                "abbreviation": "Jud"
+        },
+        {
+                "name": "Pinadayag",
+                "longAbbreviation": "Pin.",
+                "abbreviation": "Pin"
+        }
+]
