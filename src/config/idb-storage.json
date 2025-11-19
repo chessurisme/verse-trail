@@ -1,0 +1,7 @@
+{
+        "name": "BibleTracker",
+        "version": 1,
+        "storeNames": [
+                "ReadChapters"
+        ]
+}
