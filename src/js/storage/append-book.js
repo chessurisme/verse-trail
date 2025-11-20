@@ -3,7 +3,6 @@ import getBookNames from './get-book-names'
 
 function appendBookNames() {
         const storage = Storage.getInstance()
-        console.log(storage)
         const bookNames = getBookNames()
 
         bookNames.forEach(async (name, index) => {
