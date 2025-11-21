@@ -5,9 +5,13 @@ import getChapterCount from './get-chapter-count.js'
 
 async function setUpScaffold() {
         const storage = Storage.getInstance()
+        const storeName = database.storeNames[0]
+
+        const isStoragePopulated = await storage.retrieve(storeName)
+        if (isStoragePopulated.length > 0) return isStoragePopulated
+
         const bookNames = getBookNames()
         const chapterCount = getChapterCount()
-        const storeName = database.storeNames[0]
         const scaffoldData = bookNames.map((bookName, index) => ({
                 id: index + 1,
                 bookName,
