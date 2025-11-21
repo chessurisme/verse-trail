@@ -1,6 +1,5 @@
-import appendBookNames from './js/storage/append-book'
+import setUpScaffold from './utilities/idb-set-up/set-up-scaffold'
 
-appendBookNames()
-console.log('Verse Trail initialized')
-
-window.addEventListener('beforeunload', () => Storage.getInstance().close())
+window.addEventListener('DOMContentLoaded', () => {
+        setUpScaffold()
+})
