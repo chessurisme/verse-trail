@@ -3,16 +3,16 @@ import getBookData from './get-book-data'
 import pushRead from './push-read'
 import isRead from './is-read'
 
-function saveReadChapter(bookId, chapter) {
+async function saveReadChapter(bookId, chapter) {
         const storage = Storage.getInstance()
-        const bookData = getBookData(bookId)
+        const bookData = await getBookData(bookId)
 
         if (isRead(bookData, chapter)) return
 
         const updatedChaptersRead = pushRead(bookData, chapter)
         const newBookData = { ...bookData, chaptersRead: updatedChaptersRead }
 
-        storage.save('readChapters', newBookData)
+        await storage.save('ReadChapters', newBookData)
 
         return newBookData
 }

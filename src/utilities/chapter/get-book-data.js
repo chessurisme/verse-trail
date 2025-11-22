@@ -1,10 +1,11 @@
 import Storage from '../storage'
+import database from '../../config/idb-storage.json'
 
-function getBookData(bookId) {
+async function getBookData(bookId) {
         const storage = Storage.getInstance()
-        const storeName = 'readChapters'
+        const storeName = database.storeNames[0]
 
-        return storage.get(storeName, bookId)
+        return await storage.get(storeName, bookId)
 }
 
 export default getBookData
