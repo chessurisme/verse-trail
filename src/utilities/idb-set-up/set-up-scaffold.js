@@ -16,7 +16,7 @@ async function setUpScaffold() {
                 id: index + 1,
                 bookName,
                 chapterCount: chapterCount[index],
-                readChapters: [],
+                chaptersRead: [],
         }))
 
         for (const record of scaffoldData) {
